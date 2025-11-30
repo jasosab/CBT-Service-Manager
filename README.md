@@ -132,7 +132,6 @@ npm run dev
 # 👨‍💻 Autor
 
 **Jesús Sosa**\
-Desarrollador Backend & Frontend
 
 # 📄 Licencia
 
