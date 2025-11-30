@@ -1,0 +1,25 @@
+# Node / Frontend
+node_modules/
+dist/
+build/
+.vite/
+.npm/
+
+# Java / Spring Boot / Backend
+target/
+.gradle/
+out/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Env / claves
+.env
+*.log

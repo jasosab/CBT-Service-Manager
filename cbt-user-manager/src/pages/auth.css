@@ -1,0 +1,28 @@
+.auth-bg {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at top, #1f6feb 0, #0b1f3b 45%, #000 100%);
+}
+
+.auth-card {
+  background: #ffffff;
+  padding: 30px 28px;
+  border-radius: 14px;
+  width: 360px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.35);
+}
+
+.auth-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 5px;
+  color: #003e7e;
+}
+
+.auth-sub {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 20px;
+}
