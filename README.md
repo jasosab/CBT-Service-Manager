@@ -131,7 +131,7 @@ npm run dev
 
 # 👨‍💻 Autor
 
-**Jesús Sosa**\
+**Jesús Sosa**
 
 # 📄 Licencia
 
